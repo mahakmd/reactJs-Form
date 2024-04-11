@@ -8,6 +8,7 @@ Setup
 To clone the repository on your computer
 
 $ https://github.com/mahakmd/reactJs-Form.git
+
 $ cd reactJs-Form
 
 To install dependencies,
